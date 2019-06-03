@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Top-Github</string>
+    <string name="published">Published %s</string>
 </resources>
